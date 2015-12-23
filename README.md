@@ -8,8 +8,8 @@ cd mcpi
 minecraft-pi &
 load or create a new world and run:
 python3 make.txt demo.txt
-
-look around, a new house created ! 
+![image](http://www.hustoj.com/wp-content/uploads/2015/12/demo.jpg)
+look around, a new house the same as this one is created ! 
 take a look into demo.txt
 a new fun for mc
 
