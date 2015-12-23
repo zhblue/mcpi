@@ -11,7 +11,9 @@ these files work only on raspberry-pi
   
   
 load or create a new world and run:
-  python3 make.txt demo.txt
+
+  python3 make.py demo.txt
+  
 ![image](http://www.hustoj.com/wp-content/uploads/2015/12/demo.jpg)
 
 look around, a new house the same as this one is created ! 
