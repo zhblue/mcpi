@@ -4,8 +4,12 @@ some python script for minecraft-pi to fast construction building
 these files work only on raspberry-pi 
 
   svn co https://github.com/zhblue/mcpi mcpi
+  
   cd mcpi
+  
   minecraft-pi &
+  
+  
 load or create a new world and run:
   python3 make.txt demo.txt
 ![image](http://www.hustoj.com/wp-content/uploads/2015/12/demo.jpg)
